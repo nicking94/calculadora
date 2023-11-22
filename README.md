@@ -1,2 +1,2 @@
-deployment from the following link:
+deployment in the following link:
 https://calculadora-js-nk.netlify.app/
